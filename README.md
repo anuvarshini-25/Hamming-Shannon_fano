@@ -39,7 +39,6 @@ print(f"Variance is : {var}")
 ![WhatsApp Image 2025-09-19 at 09 16 13_452c0d49](https://github.com/user-attachments/assets/b124505b-93c5-4f9c-a33c-2ba2e0068129)
 
 # Output
- ![WhatsApp Image 2025-09-19 at 09 16 13_452c0d49](https://github.com/user-attachments/assets/86aeee6a-e5ca-41e2-9528-99a1affbe0e3)
 <img width="324" height="144" alt="Screenshot 2025-09-19 092450" src="https://github.com/user-attachments/assets/df27fe19-79fc-403d-80af-5c222a08ef04" />
 
 
